@@ -10,8 +10,8 @@ Our approach leverages two independently pretrained restoration **UNet** models.
 ### ✨ State-of-the-Art Performance
 
 The FusionUNet model achieves **state-of-the-art** performance on the widely-used **EUVP dataset**, delivering:
-* **PSNR: 25.12 dB**
-* **SSIM: 0.8637**
+* **PSNR: 25.38 dB**
+* **SSIM: 0.8667**
 
 This performance significantly **outperforms** many prior methods, establishing a new strong baseline.
 
