@@ -90,7 +90,7 @@ Our **FusionUNet** sets a new strong baseline, surpassing prior leading methods 
 
 | Model | PSNR (dB) | SSIM | Dataset |
 | :--- | :---: | :---: | :--- |
-| **FusionUNet** | **25.12** | **0.8637** | EUVP (paired) |
+| **FusionUNet** | **25.38** | **0.8667** | EUVP (paired) |
 | WaterNet | 23.56 | 0.803 | EUVP (paired) |
 | UWCNN | 22.60 | 0.787 | EUVP (paired) |
 | FUnIE-GAN | 22–23 | ~0.78 | EUVP (paired) |
