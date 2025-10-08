@@ -69,7 +69,7 @@ python test_fusion.py
 ```
 This script computes the average PSNR and SSIM over the entire test set.  
 It saves enhanced image outputs for the first 10 samples for visual inspection in the output directory.  
-Remember to modify the checkpoint path inside test_fusion.py to point to the specific fusion_model_epoch_XX.pth you wish to evaluate.
+Remember to modify the checkpoint path inside test_fusion.py to evaluate.
 
 ### ⚠️ Model Dependencies
 Crucial: The FusionUNet model requires the outputs of two separate, pretrained UNet models for inference.  
