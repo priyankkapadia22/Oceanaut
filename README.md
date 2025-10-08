@@ -32,8 +32,8 @@ This performance significantly **outperforms** many prior methods, establishing 
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/priyankkapadia22/Oceanaut.git
+cd oceanaut
 ```
 ### 2. Setup Environment and Dependencies
 Create a Python environment (e.g., using conda or venv) and install the necessary dependencies:
