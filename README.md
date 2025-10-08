@@ -82,7 +82,7 @@ unet_model_2.pth (Second pretrained UNet)
 fusion_model.pth (Trained FusionUNet)
 
 The FusionUNet's input is the stacked outputs of the first two models on a frame (or frame triplet). Without the base model checkpoints, the FusionUNet cannot run inference.  
-Make sure these three checkpoint files are correctly loaded and accessible for successful enhancement.  
+Make sure these three checkpoint files are correctly loaded and accessible for successful enhancement. (Note: To get the model weights DM me)
 
 ## 📊 Benchmarks
 
