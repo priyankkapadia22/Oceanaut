@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+opencv-python
+numpy
+pillow
+moviepy
+tqdm
+streamlit-lottie
+streamlit-firebase-authentication
