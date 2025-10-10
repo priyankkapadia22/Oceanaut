@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ## 🔐 Firebase Setup (Google Sign-In)
 
 1. Go to [Firebase Console](https://console.firebase.google.com/).
-2. Create a new project called **Oceanaut**.
+2. Create a new project.
 3. Navigate to **Authentication → Sign-in Method → Enable Google**.
 4. In **Project Settings → General → Web App Config**, copy your credentials and add them to a `.env` file or Streamlit secrets:
 
