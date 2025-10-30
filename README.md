@@ -18,7 +18,7 @@ The app features **Google Sign-In authentication via Firebase**, ensuring secure
 
 ## 🖥️ App Preview
 
-### 🔹 Login Screen (Google Sign-In)
+### 🔹 Login Screen
 ![Login Screen](screenshots/login_screen.png)
 
 ### 🔹 Home Screen
