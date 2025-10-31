@@ -49,7 +49,7 @@ source venv/bin/activate   # (Mac/Linux)
 ### 3️⃣ Install Requirements
 
 ```bash
-pip install -r requirements.txt
+pip install -r main_requirements.txt
 ```
 
 ---
