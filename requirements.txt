@@ -1,0 +1,15 @@
+streamlit
+torch
+torchvision
+opencv-python
+numpy
+pillow
+scikit-image
+moviepy
+tqdm
+streamlit-lottie
+pyrebase4
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+requests
