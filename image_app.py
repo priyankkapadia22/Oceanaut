@@ -212,8 +212,8 @@ if st.session_state.auth_done:
                     st.download_button(
                         label="⬇️ Download Enhanced Image",
                         data=tensor_to_download_bytes(enhanced_img),
-                        file_name="enhanced_image.png",
-                        mime="image/png"
+                        file_name="enhanced_image.jpg",
+                        mime="image/jpg"
                     )
 
                 except Exception as e:
@@ -231,3 +231,4 @@ st.markdown("""
 Developed by <b>Oceanaut AI Team</b> | Powered by Deep Fusion U-Net Models
 </div>
 """, unsafe_allow_html=True)
+
